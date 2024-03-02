@@ -1,4 +1,4 @@
-#EXTM3U 
+#EXTM3U8 
 #EXTINF:-1 tvg-name="CNBC Ⓨ" tvg-logo="https://i.imgur.com/BTasyOy.png" tvg-id="CNBC.us" group-title="USA",CNBC Ⓨ
 https://www.youtube.com/c/CNBC/live
 #EXTINF:-1 tvg-name="Bloomberg" tvg-logo="https://i.imgur.com/VnCcH73.png" tvg-id="BloombergTelevision.us" group-title="USA",Bloomberg
